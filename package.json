@@ -1,32 +1,32 @@
 {
   "name": "node-oyster",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "oyster",
   "main": "./lib/index.js",
   "scripts": {
     "test": "grunt test"
   },
   "dependencies": {
-    "apn": "~1.4.3",
-    "bluebird": "~1.0.4",
-    "knex": "~0.7.3",
+    "apn": "~1.7.4",
+    "bluebird": "~2.9.34",
+    "knex": "~0.8.6",
     "lodash": "~2.4.1",
     "moment": "~2.4.0",
-    "mongodb": "~1.4.34",
+    "mongodb": "~2.0.40",
     "murmurhash": "~0.0.2",
-    "mysql": "~2.0.0-rc2",
-    "redis": "~0.10.1",
+    "mysql": "~2.8.0",
+    "redis": "~0.12.1",
     "request": "~2.33.0",
-    "socket.io": "~0.9.16",
+    "socket.io": "~1.3.6",
     "winston": "~0.7.2",
     "grunt-shell": "~0.6.4",
-    "bookshelf": "~0.7.9",
+    "bookshelf": "~0.8.1",
     "hold": "0.0.6",
     "elasticsearch": "~1.5.10",
     "dateformat": "~1.0.7-1.2.3",
-    "memcached": "~0.2.6",
+    "memcached": "~2.1.0",
     "scrypt": "~4.0.7",
-    "hashring": "~1.0.3"
+    "hashring": "~3.1.1"
   },
   "devDependencies": {
     "grunt-cli": "~0.1.11",
