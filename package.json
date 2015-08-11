@@ -22,7 +22,7 @@
     "grunt-shell": "~0.6.4",
     "bookshelf": "~0.8.1",
     "hold": "0.0.6",
-    "elasticsearch": "~1.5.10",
+    "elasticsearch": "~6.0.0",
     "dateformat": "~1.0.7-1.2.3",
     "memcached": "~2.1.0",
     "scrypt": "~4.0.7",
